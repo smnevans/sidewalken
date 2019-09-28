@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sidewalken</title>
+    <link>http://sidewalken.com/</link>
+    <description>Recent content on Sidewalken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jun 2019 01:43:43 +0800</lastBuildDate>
+    
+	<atom:link href="http://sidewalken.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running Mac OS from a USB drive - a cautionary tale</title>
+      <link>http://sidewalken.com/running-macos-usb/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/running-macos-usb/</guid>
+      <description>A few months ago the SSD in my ancient MacBook Air began to falter. The sensor that told my Mac the SSD existed was intermittently failing, so I could use it for a while, then it would freeze as if the system drive had been unplugged.
+I wasn&amp;rsquo;t keen buying a new one until Apple sorted out its keyboard woes, and the prospect of installing a new SSD myself was rather daunting, so my brain came up with what seemed like a brilliant and cheap stop-gap workaround &amp;mdash; install the OS onto a USB drive and run the system from that.</description>
+    </item>
+    
+    <item>
+      <title>The National - I Am Easy To Find</title>
+      <link>http://sidewalken.com/the-national-easy-to-find/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/the-national-easy-to-find/</guid>
+      <description>I love the body language in this video &amp;mdash; Kate Stables on her tip-toes, and jittery Matt Berninger with his hands stuffed into his jeans pockets.</description>
+    </item>
+    
+    <item>
+      <title>Knives Out Trailer</title>
+      <link>http://sidewalken.com/knives-out-trailer/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/knives-out-trailer/</guid>
+      <description>The trailer for Knives Out looks great. Daniel Craig&amp;rsquo;s American accent threw me at first, but I suspect, like Martin Freeman&amp;rsquo;s in Fargo, it&amp;rsquo;ll be slightly jarring for five minutes but seem completely natural after that.</description>
+    </item>
+    
+    <item>
+      <title>The New Wilderness</title>
+      <link>http://sidewalken.com/the-new-wilderness/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/the-new-wilderness/</guid>
+      <description>Maciej Ceglowski on privacy in the age of surveillance capital &amp;nbsp;&amp;mdash;
+ This requires us to talk about a different kind of privacy, one that we haven&amp;rsquo;t needed to give a name to before. For the purposes of this essay, I&amp;rsquo;ll call it &amp;lsquo;ambient privacy&amp;rsquo;&amp;ndash;the understanding that there is value in having our everyday interactions with one another remain outside the reach of monitoring, and that the small details of our daily lives should pass by unremembered.</description>
+    </item>
+    
+    <item>
+      <title>Kindle Page Turn Buttons</title>
+      <link>http://sidewalken.com/kindle-page-turn-buttons/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/kindle-page-turn-buttons/</guid>
+      <description>I agree wholeheartedly with Jason Snell&amp;rsquo;s comment on page-turn buttons in his review of the latest Kindle Oasis&amp;nbsp;&amp;mdash;
+ People will tell you that it&amp;rsquo;s just fine to find a grip that lets you slide a finger over to the screen, tap, and then slide back every single time you turn the page. Sure, it&amp;rsquo;s fine. But this is way better.
+ When my Paperwhite broke, I started using my old Kindle again &amp;mdash; it&amp;rsquo;s so old it has a physical keyboard &amp;mdash; and immediately appreciated how much better buttons work to change pages.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+baseurl = "http://sidewalken.com/"
+languageCode = "en-us"
+title = "Sidewalken"
+theme = "sidewalken-theme"
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]

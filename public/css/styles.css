@@ -1,0 +1,141 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+em {
+  font-style: italic;
+}
+
+article {
+  padding-bottom: 1.5rem;
+}
+
+.site-header {
+  font-size: 1rem;
+  padding-bottom: 2rem;
+}
+
+.site-header a {
+  text-decoration: none;
+}
+
+.site-header p {
+  padding-top: 0.2rem;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.article-header {
+  padding-bottom: 1rem;
+  font-size: 1.1rem;
+}
+.article-header a {
+  text-decoration: none;
+}
+
+.page-footer {
+  color: #8da8b0;
+}
+
+.article-footer {
+  color: #8da8b0;
+  padding-bottom: 1.5rem;
+  padding-top: 0.5rem;
+}
+
+body {
+  background-color: #fcf4dc;
+  font-family: Verdana, Verdana, Arial;
+  font-size: 0.9rem;
+  line-height: 1.5em;
+  color: #2e3e43;
+  padding: 3em;
+}
+
+p {
+  margin-bottom: 0.6rem;
+  margin-top: 0.5rem;
+}
+p a {
+  text-decoration-color: #58767f;
+}
+
+h1 {
+  font-size: 1.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  color: #2e3e43;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 800px;
+  display: grid;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    width: 100%;
+    /* The width is 100%, when the viewport is 800px or smaller */
+  }
+
+  body {
+    padding: 1.5em;
+  }
+}
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  padding-left: 15px;
+  border-left: 2px solid #ccc;
+}
+
+a, a:active, a:hover, a:visited {
+  color: #2e3e43;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 1rem;
+}
+
+.entry-content {
+  padding-bottom: 1rem;
+}
+
+/*# sourceMappingURL=styles.css.map */

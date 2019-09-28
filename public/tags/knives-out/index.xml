@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knives Out on Sidewalken</title>
+    <link>http://sidewalken.com/tags/knives-out/</link>
+    <description>Recent content in Knives Out on Sidewalken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sidewalken.com/tags/knives-out/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Knives Out Trailer</title>
+      <link>http://sidewalken.com/knives-out-trailer/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/knives-out-trailer/</guid>
+      <description>The trailer for Knives Out looks great. Daniel Craig&amp;rsquo;s American accent threw me at first, but I suspect, like Martin Freeman&amp;rsquo;s in Fargo, it&amp;rsquo;ll be slightly jarring for five minutes but seem completely natural after that.</description>
+    </item>
+    
+  </channel>
+</rss>

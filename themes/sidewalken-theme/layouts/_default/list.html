@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+  <div class=posts_listing>
+    {{ range .Data.Pages.ByPublishDate }}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div id=date>
+          <time>{{ .Date.Format "Monday, January 2 2006" }}</time>
+          <div class="entry-content">
+            {{ .Content }}
+          </div>
+        </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

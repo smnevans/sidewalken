@@ -1,0 +1,154 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+$background-color: rgb(252,244,220)	;
+$body-font-color: rgb(46,62,67);
+$article-header-font-color: rgb(46,62,67);
+$site-header-font-color: rgb(46,62,67);
+
+$site-header-font-size: 1.5rem;
+$article-header-font-size: 1.1rem;
+$article-body-font-size: .9rem;
+
+em {
+	font-style: italic;
+}
+
+article {
+  padding-bottom: 1.5rem
+}
+
+.site-header {
+  font-size: 1rem;
+  padding-bottom: 2rem;
+}
+
+.site-header a {
+  text-decoration: none;
+}
+.site-header p {
+  padding-top: 0.2rem;
+  font-size: .9rem;
+  font-style: italic;
+}
+
+.article-header {
+ padding-bottom: 1rem;
+ //font-weight: bold;
+ font-size: $article-header-font-size;
+  a {
+    text-decoration: none;
+  }
+}
+.page-footer {
+  color: lighten($body-font-color, 40%);
+}
+.article-footer {
+  color: lighten($body-font-color, 40%);
+	padding-bottom: 1.5rem;
+	padding-top: 0.5rem;
+}
+
+// #footer
+// {
+// width: 100%;
+// }
+
+body {
+	background-color: $background-color;
+	font-family: Verdana, Verdana, Arial;
+	font-size: $article-body-font-size;
+  line-height: 1.5em;
+	color: $body-font-color;
+	padding: 3em;
+}
+
+
+p {
+  margin-bottom: 0.6rem;
+	margin-top: 0.5rem;
+  a {
+    text-decoration-color: lighten($body-font-color, 20%);
+  }
+}
+
+h1 {
+  font-size: $site-header-font-size;
+  text-decoration: none;
+  font-weight: bold;
+  color: $body-font-color;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 800px;
+  display: grid;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+  body {
+	  padding: 1.5em;
+  }
+}
+
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  padding-left: 15px;
+  border-left: 2px solid #ccc;
+}
+
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+
+#{$a-tags} {
+  color: $body-font-color;
+}
+
+
+.videoWrapper {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding-bottom: 1rem;
+}
+
+.entry-content {
+	padding-bottom: 1rem;
+}

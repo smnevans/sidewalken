@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+  <main>
+    <article>
+    <div class="entry-content">
+            {{ .Content }}
+    </div>
+    </article>
+    <section id=content>
+      <div class=posts_listing>
+        {{ range .Data.Pages.ByDate.Reverse }}
+        <article>
+          <h2 class="article-header"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+              <div class="entry-content">
+                {{ .Content }}
+              </div>
+              <div id=date>
+                <time>{{ .Date.Format "Monday, January 2 2006" }}</time>
+            </div>
+        </article>
+        {{ end }}
+      </div>
+    </section>
+  </main>
+
+{{ partial "footer.html" . }}

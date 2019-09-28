@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kindle on Sidewalken</title>
+    <link>http://sidewalken.com/tags/kindle/</link>
+    <description>Recent content in Kindle on Sidewalken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sidewalken.com/tags/kindle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kindle Page Turn Buttons</title>
+      <link>http://sidewalken.com/kindle-page-turn-buttons/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://sidewalken.com/kindle-page-turn-buttons/</guid>
+      <description>I agree wholeheartedly with Jason Snell&amp;rsquo;s comment on page-turn buttons in his review of the latest Kindle Oasis&amp;nbsp;&amp;mdash;
+ People will tell you that it&amp;rsquo;s just fine to find a grip that lets you slide a finger over to the screen, tap, and then slide back every single time you turn the page. Sure, it&amp;rsquo;s fine. But this is way better.
+ When my Paperwhite broke, I started using my old Kindle again &amp;mdash; it&amp;rsquo;s so old it has a physical keyboard &amp;mdash; and immediately appreciated how much better buttons work to change pages.</description>
+    </item>
+    
+  </channel>
+</rss>
