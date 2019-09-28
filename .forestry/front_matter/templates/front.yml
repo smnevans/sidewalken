@@ -15,4 +15,5 @@ fields:
   name: categories
   label: categories
 pages:
+- content/hello.md
 - content/forest-test.md
